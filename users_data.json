@@ -28,5 +28,64 @@
         "cnic": "17301-1827384-5",
         "created_at": "2025-08-26T22:58:46.451501",
         "last_active": "2025-08-26T22:59:39.681065"
+    },
+    "user_0006": {
+        "user_id": "user_0006",
+        "full_name": "Fayaz Noor",
+        "age": 25,
+        "gender": "Male",
+        "email": "fayaz@gmail.com",
+        "password_hash": "1a4f3ac06a7aeb941b74c9216333fb1b7dc094173b911de4ac2526dcba599517",
+        "height": 170.0,
+        "current_weight": 84.0,
+        "target_weight": 84.0,
+        "activity_level": "lightly_active",
+        "diet_type": "balanced",
+        "favorite_foods": [],
+        "common_issues": [
+            "Stress",
+            "Fatigue"
+        ],
+        "medical_conditions": [],
+        "medications": [],
+        "daily_stress_level": 3,
+        "wake_up_time": "07:00",
+        "sleep_time": "23:00",
+        "workout_duration_preference": 30,
+        "preferred_agent": "MENTAL_HEALTH",
+        "created_at": "2025-10-26T20:07:09.857816",
+        "last_active": "2025-10-27T01:52:15.761750"
+    },
+    "user_0007": {
+        "user_id": "user_0007",
+        "full_name": "Khan",
+        "age": 19,
+        "gender": "Male",
+        "email": "khan@gmail.com",
+        "password_hash": "2153119d5c19f2e6ccc1874bf235e5d3d273d07fa80bca13aefef037278d206d",
+        "height": 167,
+        "current_weight": 81.5,
+        "target_weight": 83.0,
+        "activity_level": "lightly_active",
+        "diet_type": "balanced",
+        "favorite_foods": [
+            "Biryani",
+            "chicken qorma"
+        ],
+        "common_issues": [
+            "High blood pressure"
+        ],
+        "medical_conditions": [],
+        "medications": [],
+        "daily_stress_level": 3,
+        "wake_up_time": "10:00",
+        "sleep_time": "23:00",
+        "workout_duration_preference": 30,
+        "preferred_agent": "MENTAL_HEALTH",
+        "created_at": "2025-10-26T20:25:00.074254",
+        "last_active": "2025-10-27T02:19:32.353248",
+        "dietary_restrictions": [],
+        "fitness_goals": "",
+        "preferred_workout_types": []
     }
 }

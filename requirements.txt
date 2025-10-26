@@ -1,0 +1,18 @@
+# Multi-Agent Wellness Assistant Requirements
+
+# Core Framework
+streamlit>=1.28.0
+
+# LangGraph and LangChain Dependencies
+langgraph>=0.0.40
+langchain-core>=0.1.0
+langchain-openai>=0.1.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Data Validation and Processing
+pydantic>=2.0.0
+
+# Note: The following are included in Python standard library:
+# sqlite3, datetime, json, os, re, hashlib, operator, typing, time
