@@ -1,0 +1,61 @@
+{
+    "user_id": "user_0004",
+    "name": "Aais",
+    "cnic": "23456-7890123-4",
+    "created_at": "2025-08-12T00:56:51.102243",
+    "last_updated": "2025-08-12T00:57:10.637012",
+    "sessions": {
+        "chat_2025-08-12_00:56:51": {
+            "session_id": "chat_2025-08-12_00:56:51",
+            "created_at": "2025-08-12T00:57:00.359911",
+            "last_updated": "2025-08-12T00:57:01.518540",
+            "people": [],
+            "places": [],
+            "events": [],
+            "substances": [],
+            "messages": [
+                {
+                    "content": "hello how are you",
+                    "type": "user",
+                    "timestamp": "2025-08-12T00:56:57.698323"
+                },
+                {
+                    "content": "Hello! I'm here and ready to support you. How is your heart feeling today?",
+                    "type": "assistant",
+                    "timestamp": "2025-08-12T00:57:01.478051"
+                }
+            ]
+        },
+        "chat_2025-08-12_00:57:04": {
+            "session_id": "chat_2025-08-12_00:57:04",
+            "created_at": "2025-08-12T00:57:08.405046",
+            "last_updated": "2025-08-12T00:57:10.637012",
+            "people": [],
+            "places": [],
+            "events": [],
+            "substances": [],
+            "messages": [
+                {
+                    "content": "ok",
+                    "type": "user",
+                    "timestamp": "2025-08-12T00:57:06.748928"
+                },
+                {
+                    "content": "Hi there! How are you feeling today? Is there anything on your mind that you'd like to share?",
+                    "type": "assistant",
+                    "timestamp": "2025-08-12T00:57:10.587787"
+                }
+            ]
+        }
+    },
+    "summary": {
+        "total_people": 0,
+        "total_places": 0,
+        "total_events": 0,
+        "total_substances": 0,
+        "unique_people": [],
+        "unique_places": [],
+        "unique_events": [],
+        "unique_substances": []
+    }
+}

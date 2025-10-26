@@ -1,0 +1,40 @@
+{
+    "user_id": "user_0002",
+    "name": "Tayyab Riaz",
+    "cnic": "12345-6789101-1",
+    "created_at": "2025-08-12T00:25:31.771030",
+    "last_updated": "2025-08-12T00:26:43.252455",
+    "sessions": {
+        "chat_20250812_002540": {
+            "session_id": "chat_20250812_002540",
+            "created_at": "2025-08-12T00:26:42.166298",
+            "last_updated": "2025-08-12T00:26:43.252455",
+            "people": [],
+            "places": [],
+            "events": [],
+            "substances": [],
+            "messages": [
+                {
+                    "content": "hello my name is tayyab",
+                    "type": "user",
+                    "timestamp": "2025-08-12T00:26:40.627002"
+                },
+                {
+                    "content": "Hi Tayyab, it’s nice to meet you! How's your day going?",
+                    "type": "assistant",
+                    "timestamp": "2025-08-12T00:26:43.210120"
+                }
+            ]
+        }
+    },
+    "summary": {
+        "total_people": 0,
+        "total_places": 0,
+        "total_events": 0,
+        "total_substances": 0,
+        "unique_people": [],
+        "unique_places": [],
+        "unique_events": [],
+        "unique_substances": []
+    }
+}

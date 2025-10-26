@@ -1,0 +1,40 @@
+{
+    "user_id": "default_user",
+    "name": "Default User",
+    "cnic": "Unknown",
+    "created_at": "2025-08-12T00:47:37.106038",
+    "last_updated": "2025-08-12T00:47:38.803175",
+    "sessions": {
+        "chat_2025-08-12_00:47:30": {
+            "session_id": "chat_2025-08-12_00:47:30",
+            "created_at": "2025-08-12T00:47:37.106038",
+            "last_updated": "2025-08-12T00:47:38.803175",
+            "people": [],
+            "places": [],
+            "events": [],
+            "substances": [],
+            "messages": [
+                {
+                    "content": "hi",
+                    "type": "user",
+                    "timestamp": "2025-08-12T00:47:34.747204"
+                },
+                {
+                    "content": "Hi there! How's your heart today?",
+                    "type": "assistant",
+                    "timestamp": "2025-08-12T00:47:38.782494"
+                }
+            ]
+        }
+    },
+    "summary": {
+        "total_people": 0,
+        "total_places": 0,
+        "total_events": 0,
+        "total_substances": 0,
+        "unique_people": [],
+        "unique_places": [],
+        "unique_events": [],
+        "unique_substances": []
+    }
+}
